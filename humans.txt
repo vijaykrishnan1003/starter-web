@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vijay Krishnan Software Engineer
+	
 
 # THANKS
 

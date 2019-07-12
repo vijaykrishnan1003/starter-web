@@ -8,3 +8,5 @@ This repository is for showing how Git and GitHub work
 ajsbdjbjsabdjhb
 ## Deployment
 Sample website with plenty of files for demos
+###Copyright
+2019 VJ Training
